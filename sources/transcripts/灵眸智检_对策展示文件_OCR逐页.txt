@@ -1,0 +1,474 @@
+# PPT逐页OCR文本：灵眸智检—柔性电路板云边融合智能瑕疵检测系统的创新研发和产业应用.pptx
+- 总页数: 28
+
+
+## 第 1 页
+(图片 1438x808)
+A) Sane Wasa (2028 )
+China International College Students’ Innovation Competition 2025,
+Ae
+VEL AB 9 BIE FL ERO Fe SHINS NAT TOE BS 5 7 Mb
+Esa: | ED 企业人 AS 4 SN
+
+## 第 2 页
+(图片 1436x805)
+=                                                                     PEBBLE EWaIER (2028)
+y     ee RR                                                                                                                         China International College Students’ Innovation Competition 2025,  J
+SA, AEX AA
+ie Pea cr
+@ 4” BBS: aNd, ee ES RESEDA RGA
+%, Wo TIS Te” eR, PARAS: «= EH BATS Fi
+验室到产业应用的可持续落地。
+FumEKZz | 图
+=            =                   我们
+i A= Ril
+EDP aT RT PENIS Se RR,
+A OREM, DLE PP edn PP    =
++A1 ”三层联动架构，打造灵眸智检了系统，高效破解
+传统检测效率低、漏检府高等难题。
+RRA
+‘SRR MuaNROK BRYA: TauANEneRes
+uF
+HUMAN GUM: KeMER MIEN EH
+20          PI BRB RM PAH ISA
+IM Hea
+二等交
+oxen meres age me
+
+## 第 3 页
+(图片 957x535)
+To
+由 命题解析1 ATR
+中国国际大学入创新大窒(2025) GY)
+Cina miernatenal Colege Students Innovaten Competition 2025
+2022-2028年
+2028年中国市场需求量预计达到1好喇己百-划
+万平方米
+中国FPC需求量关注
+—              4028.1
+arson 1104s TBE
+2000    goesa 07842
+9203.1
+2000
+i    .
+16000
+=P 2 1S 8 aR i hah as FH    MiP BZ02o Siem mM Ze esOIZ Rr
+4性)
+Rite
+电气性
+柔性电路板 (FPC)
+酯薄膜为基材制成
+的一种印刷电路板。
+FPC应用领域广泛，市场潜力持续增长
+RE
+eel
+
+## 第 4 页
+(图片 956x539)
+ot                     昌国国际大学生创新大赛(2025】 A)
+由 语题解析2 命题企业剖析          ee OD
+国民二成都道引科技有限公司
+FPC检测行业领军者，核心业务加盖移动设备，      和
+车载电子，工业自动信产比，航天军事，医疗设备，     wt
+显示技术公司。
+如夯研发精准检测FPC缺陷的智能设备与平台? a,
+基于人工智能技术，融合图像处理、机器学习算法与深度学习模型，构建去边协同检测新范式
+wre 全 体化方案 COR + 4% 精度更准 ox ( 耗时更短 )-瑟口%
+宣千能制造、高质量发展，助力工业智能化升级
+EE _—<_
+
+## 第 5 页
+(图片 958x540)
+提高产业链谋应链稳定性
+推动制造业高
+(20s) 288
+1              国务院关于印发《中      )25》的通知
+
+## 第 6 页
+(图片 958x553)
+J Saaanania
+普查调研全国FPC缺陷检测市场 | ssa
+WGA PEN CHAIN 2025) | ANT
+历时两年调研              企业全国范围内存在
+FPC缺陷检测问题的企业数量约             家
+联动企业，    实地调研FPC检测请点与需求
+
+## 第 7 页
+(图片 1435x809)
+i,
+>                               中国国际大学生创新大赛(2025)】 Fy)
+Wy     命题解析5     面 临 HE aX                                                                                            China International College Students’ Innovation Competition 2025   oy
+单一尺度检测法                                                                                                                                       多尺度检测法
+，。 PRY AA —,         —     a=~                + 多尺度检测时受限于
+且呈现不同特征                                                缺陷特征复杂且
+iF A ii ER
+See Zin TE WS
+习与识别成为卡点
+，。 单一尺度的检测方法
+难以人全面、精准 VQ
+地识别所有缺陷。
+Er RY y
+a lle
+
+## 第 8 页
+(图片 1435x803)
+i:      .        7                                         PRBRAPE WHA (2028) Gy
+iy        pa 技术痛点                                china International College Student’ Innovation Competiion2025
+Be te)               ns                    DL arty     ai
+1检测效率低 2.漏检率高
+四
+©          FPC的生产过    易受视觉疲劳、
+程自动化程度低， ， 细微马症难辨识等
+导致生产周期长、 ， 影响，导致漏检率
+© 准确度低 。 易出错。     居高不下。
+四
+国4
+
+## 第 9 页
+(图片 1437x811)
+i.
+PERSE UAAE(2025) GY)
+4==
+y   命题痛 版  企业需 求                                                  China International College Students’ Innovation Competition 2025
+从                                                                                                                          |
+TBM ALREBE “SIR UIE             企业需回渊缺陷信息时，要么             质量问题排查受阻，宇产改
+服务+单次收需”，数据服            二次查询费用高昂，要么             进缺乏数据支撑，聊性
+务碎片化。                      数据已被出除、无法追溯 。      RASA.
+WAM AS BIRGUE” , NSS “IBWIBETI” , Una A “REAR AE AS
+Sy EAE ASR” FYE —— 30 TE Jad od DP EO Ot
+a         RAR FIAT , 1 TE GROG IE AS        —_
+
+## 第 10 页
+(图片 1437x806)
+让回国际大学生创新大赛(2025)】 GY)
+7  本
+所       解题基础 1    研 究 历 程                                                                                         China International College Students’ Innovation Competition 2025
+从无到有 |
+真正夏好人@菏厅 !
+己D忆4年至今多人参与
+研究，不断创新、不断改
+良技术、完善产品，争取
+更多科研成果。
+eu
+EDEU4年初项目团队技术方
+面发表多篇论文及多项专利。  力
+ui
+SS IODA TA             ——
+20291 F AE HIDE RE,     本行业技术得以突破。全国范围       rates
+re             内存在FPC缺陷检测问题的企
+126        30>           业数量约3+万家。
+zo 时 | 走访工厂           走访公司
+
+## 第 11 页
+(图片 1438x806)
+bl
+础2 项目团队
+曲国国际大学生创新大赛(2025) Gy
+China International College Students’ Innovation Competition 2025
+计算机科学与技术〈本科)
+中国机器人及人工智能大赛国家级二等迷
+中国国际大学生创新大赛〈2
+四川省计算机设计大赛二等奖
+校级优秀学生
+曲紫瑞                               吴雨茹
+计算机科学与技术《本科)                计算机科学与技术《本科)
+获市级志愿证书                        器人及人工智能大赛国家级三等奖
+校级优秀学生                        大学创新大赛省多
+蓝桥杯省三等奖                    校级优秀学生
+朱婧烟                                EW
+网络安全 (A)                  计算机科学与技术《本科
+获院优秀青年志愿者                  计算机软件设计大赛国家三等奖
+中国计算机博弈锦标赛德州扑克             校优秀团干部国家励志奖学金
+项目比赛国家一等奖                  校级优秀学生
+蓝桥杯三等奖
+OH                                                           唐必湘
+软件工程(本科)                     管理科学学院工商管理专业《本科)
+负责商业模式板块的优化
+掌握C、 Python语言
+参与松鼠Al实习
+
+## 第 12 页
+(图片 1267x738)
+.         z                                                            昌国国际大学生创新大赛(2025) 6)
+ly                 础 3  指 导 老 师                                                    China International College Students’ Innovation Competition 2025
+1 EY BS fC
+2020年至今在电子科技大学计算机科学与工程学
+院(网络空间安全学院)从事博士后研究工作。近年
+来，主持和主研国家自然科学基金项目、四川省重
+点研发计划项目等7项;在国际期刊和会议上发表
+SCI/EI检索论文20余篇，受理发明专利5项，授权
+发明专利2项。
+江苏省“333高层次人才培养工程”培养对象、
+江苏省“六大人才高峰”人才培养对象、、江
+苏省盐城市创新创业领军人才、江苏省镇江市
+“331计划”人才、成都理工大学科研创新团
+队带头人。
+获得SYB资格认证，曾获得成都理工大学辅导员，
+技能大赛一等奖、指导学生创新创业国家级立项
+2项，省级2项。指导学生参加国家级甲级竞赛
+全国一等奖3项，四川省省级互联网+银奖1项，
+铀奖2项。
+MOIGI a
+sbhas**SSivin
+
+## 第 13 页
+(图片 1438x804)
+趾国国际大学生创新大赛(2025) A)
+过 解题基础 4 所获成果                        China memnatonal Colege Students Imovaion Competition 2025  y
+也     v   v
+W          yu          W
+生 参与国家级课题必 多。 权威期刊论文 & SY 发明专利 2 所计算机软件著作籽
+。 构建数据集: 包含1类常见缺陷类型共已己11弱     。 依托国家级灰创项目，完成技术孵化
+缺陷图                     。 借助即赛专家的指导打磨方案
+专利名称          专利类型
+ZL202311469303.3;                      一种基于双层二维归一化流的自监督工业异常检测方法                  发明专利                     PERE SBOE; BES; A,
+ZL202311425206.4                      一种基于双教师架构的类增量柔性电路板缺陷检测方法                  发明专利                   PENDS RE SCAR; CRE; Pas
+知识产权各         知识产权类型      著作权人
+2023SR0869807       FPC表面缺陷智能视觉检测系统V1.0     计算机软件著作权  DAHER Si Be OAs MUTT; MS FAIL
+BBUE. WORE. VENER, PN, TSIM UAE ARTIS, BOERS, 163 (2024) 111928. (中科院1区)
+陈润吉、陈光柱、雇晓鹏、熊文本，通过原型相似性回放和相似性调整正则化进行类增量学习，应用智能，2024:16。 〈中国科学院2区，IF: 3.9)
+能文杰、陈光柱、雇晓鹃、陈润吉，和柔性印刷电路缺陷检测的自适应双教师增量学习四，计算机与电气工程，118 (2024) 109337. (中科院3区,IF: 4.3)
+
+## 第 14 页
+(图片 958x534)
+WUT 硬件+软件+AI技术
+(人 硬件“抓的准" 】 《软件“算的快"】 Cal “看得清” )
+。 硬件采用绪阵相机 ，实现生产线上FPC辕借的高速采集;
+。软件实厅记录系统实现缺陷的即时反馈，支持硬果轧涛与分折;
+。Al技术层面，四大想必算法形成突破。
+昌国国际大学入创新大帘(2025) GY
+Cina international Colege Students Imeovaton Competition 2025
+全面精准检测困难        解决问题天 解法分三层: 硬件+软件+AI技术
+aa ans)     as |
+by teal sox F
+RIGS
+Ae @.
+KE 演示视频 YD
+
+## 第 15 页
+(图片 959x537)
+a.
+昌国国际大学生创新大赛(2025)  ey
+2 PORE 硬件             rece ee ae
+线阵相机
+i     防油污涂层设计，抵
+fi     御工业油污、粉侍侵
+蚀，保持镜头清洁
+硬件核心
+naRRRRRRRGG
+
+## 第 16 页
+(图片 1264x709)
+个                                                                  昌国回听大学生创新关窒(2025) 合消
+地   技术支持  软件                                                         China International Collage Students’ Innovation Compatition 2025
+WR - SHE - 跨域共享
+Ti ES +2 Me      Bley Mihi LAn+iT A
+VT IE I: 支持缺陷数据按时间、批次、类型精准检索，      云检测 + 双云脐存 : 破解数据追溯、跨域共享行业痛点，
+从检测到溯源全流程可查，数据永久留存。              实现“检测 - 查看 - 追溯 - 共享”全流程闭环
+* THT LE: 0.05mm 级缺陷信息，随检测数据秒级同      * MA: 成都理工大学科技园专用，核心数据专
+步云端，无延迟。                            属存储、安全可控。
+* Bm: 本地 - 云端实时联动，合作方可同步查阅缺      * “行业云节点: 拟对接阿里云西南大数据库，支持跨区域
+陷图像、参数及判定结果。                         共享、协同分析。
+R               &
+-| Ee |     = ee
+Penn Wen” warn  herr  "Griz
+
+## 第 17 页
+(图片 957x537)
+由 技术支持 Al算法模型                      QSSRASRUTAE( a5) EY)
+ba =| ea saws,
++   © ie! A
+FPC小目标缺陷检测模型
+Yolox-GA
+解决小目标检测难的问题
+解决多尺度难题                   适用场景增加               解决FPC缺陷样本稀少
+4        »        本        4
+smoisl. Al. HAT 的缺陷检测技术，满足工厂流水线需求
+\*__»==<——~—
+
+## 第 18 页
+(图片 960x537)
+昌国国际大学入创新大帘(2025) GY
+Cina miernatenal Colege Students novation Competition 025
+ny)
+跨民度惫司Transformer的FPC缺陷检测算法
+通过“全局-远齐-宝间”三级跨尺度协同机制，解决了FPC缺陷检测中由号尺硫缺附、复秋背
+景于扰和实厅性要求带来的核心挑战，实现对微小针孔与大面积裙皱等不同尺度缺陷的靖淮识别。
+te AIAG       arse)       au rage)      anrne
+| SSS      路尺度通道注
+路尺度协同多       意力协加模块
+REITER         ¥
+‘ge    3          ay
+§+-6i-@   # = Mf
+mates        PERCE
+WEB        SHEET BU
+增强模型在提取和融合号尺度特证方面的能力，提高性能表现性和时棒性至日5%
+和        iii
+
+## 第 19 页
+(图片 957x546)
+i                                                                                                                                                         hg
+由 Rooter                                           次) OY)
+_自适应双教师模型口AT                                   CAR
+引入可学习的自适应因子，能够在学习新类别的知识时，有效地保留并融合       ‘g
+旧类别的知识。有效解决了增量学习中灾验性还启和新旧知识刷号冲完的 X4 | ke
+a                                                  “4 i)
+;        NO
+ae 4    1  shot      下              十类知识             值
+uf 一@          权重    >         动
+本                       ra]          根据加练过程中的数。 态
+| 4       ote} “i.      z         据分布和目标变化 调
+-                    oe                          Ms
+A
+AR iS It Pik Fi EX 35;
+
+## 第 20 页
+(图片 959x548)
+SS                                              SUBERSR UAE 2008) )
+PROHERS oe! Ap RUG 2008) GY)
+y    Se
+RW ee — 8 — ei a        7     S
+SN了      v4
+FART 1S EASA IUROR, CED | L      os
+ahi OER FRILAM.                <4 |:    心了
+7s   a
+cas rere)                3                a                    数据预处理
+开机
+mae                      二
+_&       生成缺陷样本
+Hint ETER
+um        ¥          hort
+@ sracanan
+cosmo | UREWRBETEN 上
+内层流中舍指数空间注意力模块的子网
+fe RET PB ad    LL bee R Eb
+oe
+
+## 第 21 页
+(图片 957x543)
+es                                                                                                                                                         Me
+¢ * Bete                                                     中国国际大学入创新大窒(2025) GY)
+China miernatenal Colege Students novation Competition 2025
+Yolox-GAIR 2 基于生成式对抗网络和注意力机制的FPC小目标缺陷检测模型
+小目标特征融合模块、区域感知模块协同精准捕提纳 类 级微小缺陷特征，大大提高对于小目标缺陷
+检测的精度，有 效解决小目标检测难的问题。
+能够恢生在采样过程中损失的
+DD ”小目标缺陷的特征信息。
+p> 能使模开更加关注小目标缺咯所在的
+eb, MEP UT TA,
+
+## 第 22 页
+(图片 958x535)
+r   =                                                                                                                                                        Mg
+人 癌品分析                                   QSSRAS ROTA a5) EY)
+»
+JUZHI                        i                 SABE EG HR              )
+产品性能                                                     Gd                         Sj]                        |
+‘AR BORE BIS          ARPS Ht FA BINS                                  |
+核心技术               自动光学检测技术                 工业 CT 检测软件          硬件 + 软件 + Al 三层协同
+应用模式               设备销售                     设备销售                 设备 + 技术授权
+一般成本                           18万元                                    25万元                                   15万元
+数据服务能力 ms, CROMER 。 本地存储，无路三数据联动 ORES CRETE,
+防击更精准”服务更全面
+性春比更高 ”适配性更好
+在确保性能领先的同时，实现成本降低                    ，满足市场普及需求
+
+## 第 23 页
+(图片 1440x818)
+.,
+Pun                                  Sums unat m8) BY)
+Te ee ee | ee |
+认可   而应更局  功能更全 || 精度更高 || 价格更再
+ee 实时联动全链近湖  测量误差<5mm   单台定价15万元
+我们的产品已获得成都道引科技有限
+公司出具的应用和证明。以此为基础，我
+们将产品推净成都思图思创科技有限公司
+试用，亦收获了积极反馈，这双重印证初
+步展现了产品的市场认可度与应用价利。
+不良项目代码
+—_—     成都思图思创科技有限公
+CEM ire russ
+mast s6aax | 公司分别从“行业适配性”与
+人。 soox | “功能、精度、市场价值”维
+|         rss saox | 度为我方出具应用证明。
+|
+ik, TRUER RASS, MVE. RHO
+OAR, RARE AN,
+Fre
+ne:
+e
+— a mis
+
+## 第 24 页
+(图片 1439x831)
+A                                 PRBS werse3(2028) A)
+ve 业模式                                                                                                                             China International College Students' Innovation Competition 2025   oy
+硬件成本费+算法授权费+运营维护费     渠道为主，直营为辅，电子工厂加持
+30:                                 70x              (初步加身长江三角洲地区“) 【 扩大销售，辐射华中地区 )
+降低成本     cone     Ti      (ASE, SURIMEKKEE ) 人 成为全国智能检测TOP3 )
+30, 中60* ™ 上市
+2025年推广      2027年覆盖        2029年全面
+>>> 项目商业模式介绍《《《
+(生产降低成本 )
+Fe:
+智检
+扩大销售，
+( RE )                                   高科技公司                    辐射华中地区
+
+## 第 25 页
+(图片 960x544)
+总 财务预测
+昌国国际大学生创新大询(2025)  ey
+China miernatenal Colege Students novation Competition 2025
+设备售卖20万元           1600万元
+目前产品订单金额超           全年收入预计突破
+持续增长 8 8ff
+预计未来五年盈利预测
+| iti | 2026 4 |
+MMA 1600
+TRA 880         1450         2200        3100        4200
+tA         720         1350         2300 37005300
+毛利率。 45.0% 48.2% © S1I% 54.4% 55.8%
+期间费用 320         580          950         1400         1950
+净利润 = 400          770          1350        2300 © 3350
+WMH — 25.0% 27.5% 30.0% 33.8% 35.3%
+根据目前项目需求拟以同比稀 。 十年净利润持续增长 ，预计的
+释19%股权来募资670万元      平均投资年回报率超过45%
+3.融资目的             4.资金用途
+满足未来三年内扩大规模，研 ”投入资金主要用于产品的研发
+发投入，市场营销等方面需求 。 和品牌营销推广
+DD 稀释后股权配比示意图 «Kc
+10
+
+## 第 26 页
+(图片 959x543)
+Y 产业链布局
+形成“检测设备一电子元
+产业链上游                 产业链中游                 产业链下游
+一 强化供应链根基一                  - 赋能行业提质增效-                 - 驱动终端产业升级 -
++ 联合核心零部件供应商，推进       *。 为全国 3 万余家 FPC 厂商提       + 辐射手机、汽车电子等终端领
+关键组件国产化                 供智能检测方案                 域
++ 目标: 降低成本、保障供应链      + 核心价值: 提升产品合格率,       + 助力终端产品质量提升，减少
+安全                  售后风险
+Gae           960%         €€RR
+国产化推进 上   核心零部件 )      3万+FPC厂商  智能检测方案 )     手机/车载电子 )  终端质量提升 上
+;终滑产品”
+良性循环
+
+## 第 27 页
+(图片 1439x805)
+i
+ip 个 人与团队成长                                       中回国际大学生创新天寞(2025】人后消
+China International College Students’ Innovation Competition 2025
+—
+) CE
+思维升级承接硕士团队科研方法论
+ET os sou
+团队协同共进
+成长闭环: 个人与团队的双向成就循环
+和 ee
+
+## 第 28 页
+(图片 959x531)
+人) SR                                                          @Antzss
+China iterations! College Students! Inovaion Compettion 2028
